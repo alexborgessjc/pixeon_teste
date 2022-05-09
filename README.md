@@ -1,4 +1,4 @@
-#Como executar o projeto 
+## Como executar o projeto 
 
 Pelo Terminal, dentro da pasta pixeon_test:
 Digite:
